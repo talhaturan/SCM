@@ -1,0 +1,6 @@
+postgre:
+    host: 'postgre-flex-001.postgres.database.azure.com'
+    port: '5432'
+    user: 'ttadmin'
+    password: 'Admin123'
+    dbname: 'perf_test_db'
